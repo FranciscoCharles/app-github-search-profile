@@ -18,7 +18,7 @@ Este projeto é apenas um exemplo para testar meus conhecimentos em **ReactJS**,
     </h6>  
 </div>
 
-# <a name=index>Table of contents 📚</a>
+# <a name=index>Indice📚</a>
 
 - [**Técnologias utilizadas no projeto**](#tecnologias)
 - [**Como executar?**](#run)
