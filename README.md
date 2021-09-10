@@ -24,7 +24,7 @@ Este projeto é apenas um exemplo para testar meus conhecimentos em **ReactJS**,
 - [**Como executar?**](#run)
 - [**Dependências**](#dependencies)
 - [**Versão**](#version)
-- [**Licensa**](#license)
+- [**Licença**](#license)
 
 # **<a name=tecnologias>Técnologias utilizadas no projeto</a>** <h6>[voltar ao indice](#index)</h6>
  - **Axios**
