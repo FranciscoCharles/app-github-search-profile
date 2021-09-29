@@ -36,7 +36,7 @@ Este projeto é apenas um exemplo para testar meus conhecimentos em **ReactJS**,
 
  Faça o download do projeto, entre na pasta do projeto e digite o seguinte comando para instalar as dependências do projeto:
  ```bash
- npm -i
+ npm i
  ```
  Para executar a aplicação use o comando:
 
